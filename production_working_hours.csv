@@ -1,0 +1,301 @@
+ID,Employee Name,Job Title,City,Gender,DIVISION,Start Date,End date,Hourly Rate,PLANNED Hours,Worked Hours,Allocated Budget,Amount Earned,Unworked Hours,Unworked Amount,Overtime Hours,Overtime Amount
+ST-001,Megan,Director,Los Angeles,Male,Post Production,2020/01/01,2020/12/31,82,1397.2,1636.7,114570.4,134209.4,0.0,0.0,239.5,19639.0
+ST-002,Katherine,Producer,Los Angeles,Female,Film Production,2020/01/01,2020/12/31,82,1327.9,1193.7,108887.8,97883.4,134.2,11004.4,0.0,0.0
+ST-003,Robert,Cameraman,Vancouver,Female,Film Production,2020/01/01,2020/12/31,69,1319.8,1155.9,91066.2,79757.1,163.9,11309.1,0.0,0.0
+ST-004,Jonathan,Producer,Los Angeles,Male,Post Production,2020/01/01,2020/12/31,77,1363.2,1464.3,104966.4,112751.1,0.0,0.0,101.1,7784.7
+ST-005,William,Editor,Vancouver,Female,Sound Department,2020/01/01,2020/12/31,83,1352.1,1530.3,112224.3,127014.9,0.0,0.0,178.2,14790.6
+ST-006,Richard,Sound Engineer,Toronto,Male,Sound Department,2020/01/01,2020/12/31,95,1465.0,1587.8,139175.0,150841.0,0.0,0.0,122.8,11666.0
+ST-007,Kristen,Cameraman,Vancouver,Female,Post Production,2020/01/01,2020/12/31,65,1446.1,1585.3,93996.5,103044.5,0.0,0.0,139.2,9048.0
+ST-008,Kevin,Cameraman,Chicago,Male,Film Production,2020/01/01,2020/12/31,59,1460.6,1470.5,86175.4,86759.5,0.0,0.0,9.9,584.1
+ST-009,Thomas,Cameraman,New York,Female,Photography,2020/01/01,2020/12/31,69,1410.3,1547.5,97310.7,106777.5,0.0,0.0,137.2,9466.8
+ST-010,Brandy,Sound Engineer,New York,Male,Post Production,2020/01/01,2020/12/31,78,1318.3,1488.7,102827.4,116118.6,0.0,0.0,170.4,13291.2
+ST-011,Rebecca,Producer,Vancouver,Male,Post Production,2020/01/01,2020/12/31,61,1337.9,1224.7,81611.9,74706.7,113.2,6905.2,0.0,0.0
+ST-012,William,Sound Engineer,New York,Female,Photography,2020/01/01,2020/12/31,55,1435.7,1285.8,78963.5,70719.0,149.9,8244.5,0.0,0.0
+ST-013,Juan,Editor,Toronto,Male,Sound Department,2020/01/01,2020/12/31,95,1404.9,1450.7,133465.5,137816.5,0.0,0.0,45.8,4351.0
+ST-014,Katelyn,Editor,Chicago,Female,Post Production,2020/01/01,2020/12/31,78,1398.5,1502.6,109083.0,117202.8,0.0,0.0,104.1,8119.8
+ST-015,Christine,Producer,Toronto,Female,Photography,2020/01/01,2020/12/31,81,1417.4,1371.1,114809.4,111059.1,46.3,3750.3,0.0,0.0
+ST-016,John,Editor,Chicago,Male,Post Production,2020/01/01,2020/12/31,57,1441.1,1412.6,82142.7,80518.2,28.5,1624.5,0.0,0.0
+ST-017,Renee,Editor,New York,Female,Photography,2020/01/01,2020/12/31,56,1456.6,1674.2,81569.6,93755.2,0.0,0.0,217.6,12185.6
+ST-018,Tonya,Editor,Toronto,Male,Photography,2020/01/01,2020/12/31,57,1427.0,1515.8,81339.0,86400.6,0.0,0.0,88.8,5061.6
+ST-019,Lisa,Sound Engineer,Toronto,Female,Photography,2020/01/01,2020/12/31,73,1466.8,1306.4,107076.4,95367.2,160.4,11709.2,0.0,0.0
+ST-020,Rachel,Sound Engineer,Toronto,Male,Film Production,2020/01/01,2020/12/31,95,1324.8,1223.7,125856.0,116251.5,101.1,9604.5,0.0,0.0
+ST-021,Kyle,Cameraman,Toronto,Female,Photography,2020/01/01,2020/12/31,66,1314.0,1150.0,86724.0,75900.0,164.0,10824.0,0.0,0.0
+ST-022,Jessica,Producer,New York,Female,Film Production,2020/01/01,2020/12/31,53,1400.7,1209.9,74237.1,64124.7,190.8,10112.4,0.0,0.0
+ST-023,Rachel,Cameraman,Los Angeles,Male,Post Production,2020/01/01,2020/12/31,72,1480.9,1502.5,106624.8,108180.0,0.0,0.0,21.6,1555.2
+ST-024,Gabriella,Sound Engineer,Chicago,Male,Photography,2020/01/01,2020/12/31,100,1435.2,1644.6,143520.0,164460.0,0.0,0.0,209.4,20940.0
+ST-025,Thomas,Producer,Vancouver,Female,Photography,2020/01/01,2020/12/31,88,1484.3,1607.4,130618.4,141451.2,0.0,0.0,123.1,10832.8
+ST-026,Craig,Cameraman,Los Angeles,Female,Post Production,2020/01/01,2020/12/31,91,1371.4,1567.8,124797.4,142669.8,0.0,0.0,196.4,17872.4
+ST-027,Ryan,Producer,Chicago,Male,Sound Department,2020/01/01,2020/12/31,97,1315.8,1458.8,127632.6,141503.6,0.0,0.0,143.0,13871.0
+ST-028,Cheryl,Sound Engineer,New York,Male,Film Production,2020/01/01,2020/12/31,98,1490.6,1450.8,146078.8,142178.4,39.8,3900.4,0.0,0.0
+ST-029,Robin,Producer,New York,Male,Post Production,2020/01/01,2020/12/31,74,1449.7,1652.8,107277.8,122307.2,0.0,0.0,203.1,15029.4
+ST-030,Tammy,Cameraman,Toronto,Male,Post Production,2020/01/01,2020/12/31,60,1347.9,1446.4,80874.0,86784.0,0.0,0.0,98.5,5910.0
+ST-031,Thomas,Director,Vancouver,Female,Photography,2020/01/01,2020/12/31,75,1474.3,1546.0,110572.5,115950.0,0.0,0.0,71.7,5377.5
+ST-032,Michelle,Cameraman,Chicago,Female,Photography,2020/01/01,2020/12/31,66,1440.3,1449.3,95059.8,95653.8,0.0,0.0,9.0,594.0
+ST-033,Jorge,Director,Vancouver,Male,Photography,2020/01/01,2020/12/31,81,1365.2,1560.7,110581.2,126416.7,0.0,0.0,195.5,15835.5
+ST-034,Linda,Cameraman,Los Angeles,Male,Photography,2020/01/01,2020/12/31,96,1326.1,1134.0,127305.6,108864.0,192.1,18441.6,0.0,0.0
+ST-035,Ana,Director,New York,Male,Film Production,2020/01/01,2020/12/31,50,1443.5,1228.2,72175.0,61410.0,215.3,10765.0,0.0,0.0
+ST-036,Alexis,Sound Engineer,Vancouver,Male,Film Production,2020/01/01,2020/12/31,57,1421.7,1307.2,81036.9,74510.4,114.5,6526.5,0.0,0.0
+ST-037,Jennifer,Producer,New York,Male,Photography,2020/01/01,2020/12/31,80,1470.8,1454.4,117664.0,116352.0,16.4,1312.0,0.0,0.0
+ST-038,Raymond,Cameraman,Toronto,Female,Sound Department,2020/01/01,2020/12/31,100,1323.2,1243.5,132320.0,124350.0,79.7,7970.0,0.0,0.0
+ST-039,Mallory,Sound Engineer,New York,Male,Film Production,2020/01/01,2020/12/31,67,1470.2,1271.4,98503.4,85183.8,198.8,13319.6,0.0,0.0
+ST-040,Elizabeth,Editor,New York,Female,Post Production,2020/01/01,2020/12/31,86,1482.0,1281.5,127452.0,110209.0,200.5,17243.0,0.0,0.0
+ST-041,Aaron,Sound Engineer,Los Angeles,Female,Sound Department,2020/01/01,2020/12/31,73,1474.3,1345.2,107623.9,98199.6,129.1,9424.3,0.0,0.0
+ST-042,Tristan,Director,Vancouver,Female,Photography,2020/01/01,2020/12/31,58,1330.2,1285.9,77151.6,74582.2,44.3,2569.4,0.0,0.0
+ST-043,Mikayla,Producer,Toronto,Female,Photography,2020/01/01,2020/12/31,52,1353.9,1221.6,70402.8,63523.2,132.3,6879.6,0.0,0.0
+ST-044,John,Sound Engineer,New York,Female,Sound Department,2020/01/01,2020/12/31,85,1325.9,1180.3,112701.5,100325.5,145.6,12376.0,0.0,0.0
+ST-045,Mark,Editor,Toronto,Female,Film Production,2020/01/01,2020/12/31,83,1445.7,1382.0,119993.1,114706.0,63.7,5287.1,0.0,0.0
+ST-046,Monica,Producer,New York,Female,Photography,2020/01/01,2020/12/31,56,1412.2,1438.2,79083.2,80539.2,0.0,0.0,26.0,1456.0
+ST-047,James,Producer,New York,Male,Sound Department,2020/01/01,2020/12/31,57,1439.9,1438.9,82074.3,82017.3,1.0,57.0,0.0,0.0
+ST-048,Ashley,Producer,New York,Male,Film Production,2020/01/01,2020/12/31,90,1412.9,1599.6,127161.0,143964.0,0.0,0.0,186.7,16803.0
+ST-049,John,Cameraman,Toronto,Male,Film Production,2020/01/01,2020/12/31,97,1344.2,1323.6,130387.4,128389.2,20.6,1998.2,0.0,0.0
+ST-050,Tammy,Cameraman,Los Angeles,Female,Sound Department,2020/01/01,2020/12/31,81,1457.7,1603.5,118073.7,129883.5,0.0,0.0,145.8,11809.8
+ST-051,Linda,Editor,Los Angeles,Male,Post Production,2020/01/01,2020/12/31,64,1497.7,1409.8,95852.8,90227.2,87.9,5625.6,0.0,0.0
+ST-052,Seth,Editor,Los Angeles,Male,Post Production,2020/01/01,2020/12/31,57,1312.8,1512.7,74829.6,86223.9,0.0,0.0,199.9,11394.3
+ST-053,Christopher,Cameraman,Vancouver,Female,Film Production,2020/01/01,2020/12/31,57,1399.4,1315.1,79765.8,74960.7,84.3,4805.1,0.0,0.0
+ST-054,Luke,Cameraman,Chicago,Male,Photography,2020/01/01,2020/12/31,62,1391.7,1359.1,86285.4,84264.2,32.6,2021.2,0.0,0.0
+ST-055,William,Editor,Toronto,Female,Film Production,2020/01/01,2020/12/31,86,1381.2,1502.7,118783.2,129232.2,0.0,0.0,121.5,10449.0
+ST-056,Sarah,Sound Engineer,Los Angeles,Female,Sound Department,2020/01/01,2020/12/31,81,1427.0,1649.8,115587.0,133633.8,0.0,0.0,222.8,18046.8
+ST-057,Daniel,Sound Engineer,Vancouver,Male,Photography,2020/01/01,2020/12/31,71,1441.1,1601.7,102318.1,113720.7,0.0,0.0,160.6,11402.6
+ST-058,Andrea,Producer,New York,Male,Film Production,2020/01/01,2020/12/31,66,1420.5,1284.9,93753.0,84803.4,135.6,8949.6,0.0,0.0
+ST-059,Jasmine,Director,Vancouver,Female,Sound Department,2020/01/01,2020/12/31,54,1460.0,1504.9,78840.0,81264.6,0.0,0.0,44.9,2424.6
+ST-060,Amy,Cameraman,Toronto,Male,Film Production,2020/01/01,2020/12/31,52,1360.1,1517.3,70725.2,78899.6,0.0,0.0,157.2,8174.4
+ST-061,Lisa,Director,New York,Male,Film Production,2020/01/01,2020/12/31,91,1392.1,1364.2,126681.1,124142.2,27.9,2538.9,0.0,0.0
+ST-062,Amber,Director,Vancouver,Male,Photography,2020/01/01,2020/12/31,93,1458.8,1504.5,135668.4,139918.5,0.0,0.0,45.7,4250.1
+ST-063,Tamara,Sound Engineer,Toronto,Female,Film Production,2020/01/01,2020/12/31,68,1407.1,1490.8,95682.8,101374.4,0.0,0.0,83.7,5691.6
+ST-064,Carrie,Director,Los Angeles,Male,Photography,2020/01/01,2020/12/31,92,1477.1,1638.5,135893.2,150742.0,0.0,0.0,161.4,14848.8
+ST-065,Briana,Producer,Vancouver,Female,Post Production,2020/01/01,2020/12/31,54,1398.7,1317.2,75529.8,71128.8,81.5,4401.0,0.0,0.0
+ST-066,Sean,Producer,Los Angeles,Female,Sound Department,2020/01/01,2020/12/31,53,1332.8,1569.3,70638.4,83172.9,0.0,0.0,236.5,12534.5
+ST-067,Caitlyn,Editor,New York,Female,Photography,2020/01/01,2020/12/31,52,1396.3,1255.7,72607.6,65296.4,140.6,7311.2,0.0,0.0
+ST-068,Paul,Sound Engineer,Toronto,Male,Post Production,2020/01/01,2020/12/31,76,1307.0,1324.2,99332.0,100639.2,0.0,0.0,17.2,1307.2
+ST-069,Barbara,Director,Toronto,Male,Sound Department,2020/01/01,2020/12/31,99,1330.3,1145.9,131699.7,113444.1,184.4,18255.6,0.0,0.0
+ST-070,Kelly,Sound Engineer,Chicago,Female,Photography,2020/01/01,2020/12/31,94,1409.8,1369.4,132521.2,128723.6,40.4,3797.6,0.0,0.0
+ST-071,Jaime,Director,Los Angeles,Male,Photography,2020/01/01,2020/12/31,89,1440.2,1533.8,128177.8,136508.2,0.0,0.0,93.6,8330.4
+ST-072,Jacob,Producer,Toronto,Female,Film Production,2020/01/01,2020/12/31,74,1459.9,1709.4,108032.6,126495.6,0.0,0.0,249.5,18463.0
+ST-073,Chloe,Cameraman,Vancouver,Male,Photography,2020/01/01,2020/12/31,100,1378.4,1350.9,137840.0,135090.0,27.5,2750.0,0.0,0.0
+ST-074,Diane,Editor,Los Angeles,Female,Photography,2020/01/01,2020/12/31,52,1480.4,1279.1,76980.8,66513.2,201.3,10467.6,0.0,0.0
+ST-075,Thomas,Producer,Toronto,Male,Film Production,2020/01/01,2020/12/31,55,1455.3,1687.6,80041.5,92818.0,0.0,0.0,232.3,12776.5
+ST-076,Christopher,Sound Engineer,Vancouver,Female,Post Production,2020/01/01,2020/12/31,57,1329.1,1544.6,75758.7,88042.2,0.0,0.0,215.5,12283.5
+ST-077,Katherine,Director,Toronto,Male,Sound Department,2020/01/01,2020/12/31,54,1319.8,1479.3,71269.2,79882.2,0.0,0.0,159.5,8613.0
+ST-078,Nancy,Cameraman,Los Angeles,Female,Sound Department,2020/01/01,2020/12/31,51,1399.3,1612.6,71364.3,82242.6,0.0,0.0,213.3,10878.3
+ST-079,Sandra,Producer,New York,Male,Post Production,2020/01/01,2020/12/31,54,1324.3,1446.3,71512.2,78100.2,0.0,0.0,122.0,6588.0
+ST-080,Megan,Producer,New York,Male,Photography,2020/01/01,2020/12/31,64,1463.8,1280.4,93683.2,81945.6,183.4,11737.6,0.0,0.0
+ST-081,Rachael,Editor,Chicago,Male,Film Production,2020/01/01,2020/12/31,92,1434.8,1690.8,132001.6,155553.6,0.0,0.0,256.0,23552.0
+ST-082,Sandra,Cameraman,Toronto,Female,Post Production,2020/01/01,2020/12/31,94,1304.9,1385.4,122660.6,130227.6,0.0,0.0,80.5,7567.0
+ST-083,Amber,Editor,Chicago,Female,Photography,2020/01/01,2020/12/31,80,1368.9,1623.1,109512.0,129848.0,0.0,0.0,254.2,20336.0
+ST-084,Peter,Editor,Toronto,Male,Post Production,2020/01/01,2020/12/31,71,1394.7,1328.3,99023.7,94309.3,66.4,4714.4,0.0,0.0
+ST-085,Janet,Sound Engineer,New York,Male,Photography,2020/01/01,2020/12/31,56,1406.6,1347.1,78769.6,75437.6,59.5,3332.0,0.0,0.0
+ST-086,Joshua,Director,Chicago,Male,Film Production,2020/01/01,2020/12/31,70,1401.7,1307.5,98119.0,91525.0,94.2,6594.0,0.0,0.0
+ST-087,Lisa,Editor,New York,Female,Sound Department,2020/01/01,2020/12/31,92,1309.3,1173.5,120455.6,107962.0,135.8,12493.6,0.0,0.0
+ST-088,Melissa,Cameraman,Los Angeles,Male,Photography,2020/01/01,2020/12/31,58,1384.0,1443.2,80272.0,83705.6,0.0,0.0,59.2,3433.6
+ST-089,Patty,Editor,Vancouver,Female,Post Production,2020/01/01,2020/12/31,90,1370.9,1284.3,123381.0,115587.0,86.6,7794.0,0.0,0.0
+ST-090,Brittany,Producer,Vancouver,Male,Sound Department,2020/01/01,2020/12/31,76,1301.7,1544.7,98929.2,117397.2,0.0,0.0,243.0,18468.0
+ST-091,Stephanie,Producer,Los Angeles,Male,Post Production,2020/01/01,2020/12/31,68,1490.5,1314.4,101354.0,89379.2,176.1,11974.8,0.0,0.0
+ST-092,Bethany,Editor,Toronto,Female,Photography,2020/01/01,2020/12/31,85,1421.1,1284.5,120793.5,109182.5,136.6,11611.0,0.0,0.0
+ST-093,Shannon,Director,Los Angeles,Male,Sound Department,2020/01/01,2020/12/31,77,1334.9,1583.0,102787.3,121891.0,0.0,0.0,248.1,19103.7
+ST-094,Donna,Producer,Vancouver,Male,Post Production,2020/01/01,2020/12/31,79,1426.3,1255.5,112677.7,99184.5,170.8,13493.2,0.0,0.0
+ST-095,Wendy,Editor,New York,Male,Sound Department,2020/01/01,2020/12/31,89,1392.4,1290.1,123923.6,114818.9,102.3,9104.7,0.0,0.0
+ST-096,Sabrina,Cameraman,New York,Male,Sound Department,2020/01/01,2020/12/31,95,1450.3,1279.7,137778.5,121571.5,170.6,16207.0,0.0,0.0
+ST-097,Laura,Director,Chicago,Female,Post Production,2020/01/01,2020/12/31,90,1496.8,1335.6,134712.0,120204.0,161.2,14508.0,0.0,0.0
+ST-098,Christopher,Cameraman,Toronto,Female,Sound Department,2020/01/01,2020/12/31,83,1478.1,1623.7,122682.3,134767.1,0.0,0.0,145.6,12084.8
+ST-099,Chloe,Director,Toronto,Female,Post Production,2020/01/01,2020/12/31,68,1474.3,1600.2,100252.4,108813.6,0.0,0.0,125.9,8561.2
+ST-100,Tom,Editor,Vancouver,Male,Photography,2020/01/01,2020/12/31,54,1458.4,1395.6,78753.6,75362.4,62.8,3391.2,0.0,0.0
+ST-101,Crystal,Producer,Toronto,Male,Film Production,2020/01/01,2020/12/31,54,1383.0,1315.8,74682.0,71053.2,67.2,3628.8,0.0,0.0
+ST-102,Megan,Sound Engineer,Chicago,Male,Photography,2020/01/01,2020/12/31,76,1491.1,1551.1,113323.6,117883.6,0.0,0.0,60.0,4560.0
+ST-103,John,Producer,New York,Female,Post Production,2020/01/01,2020/12/31,86,1425.8,1290.3,122618.8,110965.8,135.5,11653.0,0.0,0.0
+ST-104,Jessica,Cameraman,Los Angeles,Female,Sound Department,2020/01/01,2020/12/31,58,1411.9,1347.9,81890.2,78178.2,64.0,3712.0,0.0,0.0
+ST-105,Dave,Director,Los Angeles,Male,Sound Department,2020/01/01,2020/12/31,81,1438.9,1383.3,116550.9,112047.3,55.6,4503.6,0.0,0.0
+ST-106,Jeffrey,Cameraman,Los Angeles,Female,Film Production,2020/01/01,2020/12/31,97,1399.1,1623.7,135712.7,157498.9,0.0,0.0,224.6,21786.2
+ST-107,Laura,Editor,Toronto,Female,Sound Department,2020/01/01,2020/12/31,75,1477.7,1261.3,110827.5,94597.5,216.4,16230.0,0.0,0.0
+ST-108,Marvin,Sound Engineer,Toronto,Male,Sound Department,2020/01/01,2020/12/31,50,1372.3,1222.2,68615.0,61110.0,150.1,7505.0,0.0,0.0
+ST-109,Lisa,Cameraman,New York,Female,Film Production,2020/01/01,2020/12/31,59,1450.3,1378.9,85567.7,81355.1,71.4,4212.6,0.0,0.0
+ST-110,Craig,Cameraman,Los Angeles,Female,Post Production,2020/01/01,2020/12/31,74,1333.7,1330.5,98693.8,98457.0,3.2,236.8,0.0,0.0
+ST-111,Dustin,Director,Chicago,Female,Film Production,2020/01/01,2020/12/31,83,1363.2,1258.4,113145.6,104447.2,104.8,8698.4,0.0,0.0
+ST-112,Heidi,Editor,Los Angeles,Female,Sound Department,2020/01/01,2020/12/31,77,1461.4,1441.4,112527.8,110987.8,20.0,1540.0,0.0,0.0
+ST-113,Brandon,Editor,Chicago,Female,Film Production,2020/01/01,2020/12/31,87,1442.0,1682.9,125454.0,146412.3,0.0,0.0,240.9,20958.3
+ST-114,Audrey,Cameraman,Chicago,Male,Film Production,2020/01/01,2020/12/31,73,1311.4,1407.6,95732.2,102754.8,0.0,0.0,96.2,7022.6
+ST-115,Renee,Editor,Chicago,Female,Photography,2020/01/01,2020/12/31,95,1473.8,1640.4,140011.0,155838.0,0.0,0.0,166.6,15827.0
+ST-116,Amanda,Producer,Los Angeles,Female,Photography,2020/01/01,2020/12/31,90,1439.4,1558.8,129546.0,140292.0,0.0,0.0,119.4,10746.0
+ST-117,Erin,Sound Engineer,Los Angeles,Female,Sound Department,2020/01/01,2020/12/31,66,1440.8,1333.3,95092.8,87997.8,107.5,7095.0,0.0,0.0
+ST-118,Anthony,Producer,Toronto,Male,Photography,2020/01/01,2020/12/31,60,1370.0,1303.5,82200.0,78210.0,66.5,3990.0,0.0,0.0
+ST-119,Cynthia,Cameraman,Chicago,Male,Sound Department,2020/01/01,2020/12/31,93,1344.4,1429.1,125029.2,132906.3,0.0,0.0,84.7,7877.1
+ST-120,Catherine,Sound Engineer,Chicago,Female,Film Production,2020/01/01,2020/12/31,71,1421.7,1510.2,100940.7,107224.2,0.0,0.0,88.5,6283.5
+ST-121,Barbara,Cameraman,New York,Female,Sound Department,2020/01/01,2020/12/31,70,1351.1,1395.3,94577.0,97671.0,0.0,0.0,44.2,3094.0
+ST-122,Peter,Editor,New York,Male,Film Production,2020/01/01,2020/12/31,83,1369.1,1565.0,113635.3,129895.0,0.0,0.0,195.9,16259.7
+ST-123,Mitchell,Producer,New York,Female,Sound Department,2020/01/01,2020/12/31,66,1396.4,1613.1,92162.4,106464.6,0.0,0.0,216.7,14302.2
+ST-124,Tina,Editor,Toronto,Female,Photography,2020/01/01,2020/12/31,50,1392.2,1536.4,69610.0,76820.0,0.0,0.0,144.2,7210.0
+ST-125,Benjamin,Cameraman,Los Angeles,Female,Sound Department,2020/01/01,2020/12/31,78,1323.6,1162.8,103240.8,90698.4,160.8,12542.4,0.0,0.0
+ST-126,Andrew,Cameraman,Chicago,Female,Film Production,2020/01/01,2020/12/31,78,1422.6,1616.5,110962.8,126087.0,0.0,0.0,193.9,15124.2
+ST-127,Susan,Sound Engineer,Los Angeles,Male,Film Production,2020/01/01,2020/12/31,65,1398.0,1251.0,90870.0,81315.0,147.0,9555.0,0.0,0.0
+ST-128,Jackson,Producer,New York,Female,Sound Department,2020/01/01,2020/12/31,56,1411.4,1340.7,79038.4,75079.2,70.7,3959.2,0.0,0.0
+ST-129,David,Sound Engineer,Chicago,Female,Sound Department,2020/01/01,2020/12/31,82,1420.9,1474.4,116513.8,120900.8,0.0,0.0,53.5,4387.0
+ST-130,Jason,Producer,New York,Male,Photography,2020/01/01,2020/12/31,57,1423.0,1564.1,81111.0,89153.7,0.0,0.0,141.1,8042.7
+ST-131,Lauren,Editor,Los Angeles,Male,Film Production,2020/01/01,2020/12/31,68,1476.0,1769.7,100368.0,120339.6,0.0,0.0,293.7,19971.6
+ST-132,Sharon,Cameraman,Vancouver,Female,Photography,2020/01/01,2020/12/31,57,1376.9,1301.7,78483.3,74196.9,75.2,4286.4,0.0,0.0
+ST-133,Andrew,Sound Engineer,New York,Male,Post Production,2020/01/01,2020/12/31,64,1448.0,1687.7,92672.0,108012.8,0.0,0.0,239.7,15340.8
+ST-134,Ronald,Cameraman,Vancouver,Female,Post Production,2020/01/01,2020/12/31,64,1374.6,1399.5,87974.4,89568.0,0.0,0.0,24.9,1593.6
+ST-135,Craig,Sound Engineer,Chicago,Male,Photography,2020/01/01,2020/12/31,85,1401.0,1370.8,119085.0,116518.0,30.2,2567.0,0.0,0.0
+ST-136,Jordan,Cameraman,Chicago,Female,Film Production,2020/01/01,2020/12/31,61,1402.1,1229.3,85528.1,74987.3,172.8,10540.8,0.0,0.0
+ST-137,Jeffrey,Editor,Los Angeles,Male,Film Production,2020/01/01,2020/12/31,96,1326.4,1235.9,127334.4,118646.4,90.5,8688.0,0.0,0.0
+ST-138,Deborah,Director,New York,Male,Sound Department,2020/01/01,2020/12/31,56,1423.2,1222.7,79699.2,68471.2,200.5,11228.0,0.0,0.0
+ST-139,Michael,Sound Engineer,New York,Female,Sound Department,2020/01/01,2020/12/31,69,1302.5,1207.5,89872.5,83317.5,95.0,6555.0,0.0,0.0
+ST-140,Henry,Editor,Los Angeles,Female,Post Production,2020/01/01,2020/12/31,95,1469.6,1382.5,139612.0,131337.5,87.1,8274.5,0.0,0.0
+ST-141,William,Sound Engineer,Los Angeles,Male,Post Production,2020/01/01,2020/12/31,100,1358.3,1603.2,135830.0,160320.0,0.0,0.0,244.9,24490.0
+ST-142,Benjamin,Editor,Toronto,Female,Film Production,2020/01/01,2020/12/31,71,1472.6,1596.2,104554.6,113330.2,0.0,0.0,123.6,8775.6
+ST-143,Craig,Editor,New York,Female,Film Production,2020/01/01,2020/12/31,69,1303.4,1369.6,89934.6,94502.4,0.0,0.0,66.2,4567.8
+ST-144,Vanessa,Cameraman,Chicago,Female,Photography,2020/01/01,2020/12/31,81,1425.6,1224.0,115473.6,99144.0,201.6,16329.6,0.0,0.0
+ST-145,James,Cameraman,Toronto,Male,Post Production,2020/01/01,2020/12/31,54,1464.2,1421.3,79066.8,76750.2,42.9,2316.6,0.0,0.0
+ST-146,Michael,Director,Chicago,Male,Sound Department,2020/01/01,2020/12/31,77,1328.4,1274.2,102286.8,98113.4,54.2,4173.4,0.0,0.0
+ST-147,Jessica,Producer,Los Angeles,Female,Photography,2020/01/01,2020/12/31,76,1478.2,1532.6,112343.2,116477.6,0.0,0.0,54.4,4134.4
+ST-148,Mary,Director,Toronto,Male,Sound Department,2020/01/01,2020/12/31,74,1334.3,1367.9,98738.2,101224.6,0.0,0.0,33.6,2486.4
+ST-149,Samantha,Sound Engineer,Vancouver,Male,Photography,2020/01/01,2020/12/31,71,1347.5,1536.0,95672.5,109056.0,0.0,0.0,188.5,13383.5
+ST-150,Gary,Editor,Chicago,Male,Film Production,2020/01/01,2020/12/31,97,1457.5,1587.6,141377.5,153997.2,0.0,0.0,130.1,12619.7
+ST-151,Emily,Editor,Toronto,Female,Photography,2020/01/01,2020/12/31,89,1425.7,1566.2,126887.3,139391.8,0.0,0.0,140.5,12504.5
+ST-152,Tammy,Sound Engineer,Vancouver,Male,Post Production,2020/01/01,2020/12/31,71,1461.2,1616.7,103745.2,114785.7,0.0,0.0,155.5,11040.5
+ST-153,Brian,Cameraman,Toronto,Female,Photography,2020/01/01,2020/12/31,72,1358.5,1226.4,97812.0,88300.8,132.1,9511.2,0.0,0.0
+ST-154,Erica,Editor,Vancouver,Female,Film Production,2020/01/01,2020/12/31,97,1450.6,1404.4,140708.2,136226.8,46.2,4481.4,0.0,0.0
+ST-155,Megan,Director,Los Angeles,Male,Post Production,2020/01/01,2020/12/31,83,1480.1,1543.2,122848.3,128085.6,0.0,0.0,63.1,5237.3
+ST-156,Matthew,Cameraman,Vancouver,Female,Photography,2020/01/01,2020/12/31,79,1379.0,1230.1,108941.0,97177.9,148.9,11763.1,0.0,0.0
+ST-157,John,Producer,Los Angeles,Male,Photography,2020/01/01,2020/12/31,67,1448.0,1248.2,97016.0,83629.4,199.8,13386.6,0.0,0.0
+ST-158,Candice,Sound Engineer,New York,Male,Post Production,2020/01/01,2020/12/31,74,1495.7,1780.1,110681.8,131727.4,0.0,0.0,284.4,21045.6
+ST-159,Scott,Editor,Toronto,Female,Film Production,2020/01/01,2020/12/31,87,1434.8,1487.1,124827.6,129377.7,0.0,0.0,52.3,4550.1
+ST-160,Gregory,Producer,Chicago,Male,Post Production,2020/01/01,2020/12/31,97,1464.0,1544.1,142008.0,149777.7,0.0,0.0,80.1,7769.7
+ST-161,Thomas,Cameraman,Vancouver,Male,Post Production,2020/01/01,2020/12/31,73,1358.2,1294.0,99148.6,94462.0,64.2,4686.6,0.0,0.0
+ST-162,Robert,Director,Los Angeles,Female,Film Production,2020/01/01,2020/12/31,50,1457.7,1529.1,72885.0,76455.0,0.0,0.0,71.4,3570.0
+ST-163,Ashley,Director,Chicago,Female,Photography,2020/01/01,2020/12/31,96,1396.1,1649.3,134025.6,158332.8,0.0,0.0,253.2,24307.2
+ST-164,William,Producer,Vancouver,Male,Photography,2020/01/01,2020/12/31,85,1487.2,1409.2,126412.0,119782.0,78.0,6630.0,0.0,0.0
+ST-165,Larry,Editor,Vancouver,Male,Photography,2020/01/01,2020/12/31,92,1427.9,1503.4,131366.8,138312.8,0.0,0.0,75.5,6946.0
+ST-166,Michael,Sound Engineer,Vancouver,Female,Sound Department,2020/01/01,2020/12/31,67,1362.3,1164.5,91274.1,78021.5,197.8,13252.6,0.0,0.0
+ST-167,Mary,Producer,New York,Female,Post Production,2020/01/01,2020/12/31,62,1441.1,1442.7,89348.2,89447.4,0.0,0.0,1.6,99.2
+ST-168,John,Editor,Toronto,Male,Sound Department,2020/01/01,2020/12/31,73,1392.8,1201.6,101674.4,87716.8,191.2,13957.6,0.0,0.0
+ST-169,Ann,Director,Vancouver,Male,Photography,2020/01/01,2020/12/31,73,1405.8,1658.1,102623.4,121041.3,0.0,0.0,252.3,18417.9
+ST-170,Alexander,Editor,New York,Female,Photography,2020/01/01,2020/12/31,96,1447.1,1519.5,138921.6,145872.0,0.0,0.0,72.4,6950.4
+ST-171,Judith,Editor,New York,Male,Sound Department,2020/01/01,2020/12/31,54,1414.6,1319.6,76388.4,71258.4,95.0,5130.0,0.0,0.0
+ST-172,Matthew,Director,Vancouver,Male,Film Production,2020/01/01,2020/12/31,60,1388.1,1211.6,83286.0,72696.0,176.5,10590.0,0.0,0.0
+ST-173,Brandon,Director,Los Angeles,Female,Post Production,2020/01/01,2020/12/31,77,1476.4,1654.6,113682.8,127404.2,0.0,0.0,178.2,13721.4
+ST-174,Juan,Sound Engineer,New York,Male,Post Production,2020/01/01,2020/12/31,51,1398.5,1562.0,71323.5,79662.0,0.0,0.0,163.5,8338.5
+ST-175,John,Editor,Los Angeles,Female,Sound Department,2020/01/01,2020/12/31,99,1427.1,1549.2,141282.9,153370.8,0.0,0.0,122.1,12087.9
+ST-176,Stephanie,Cameraman,Vancouver,Female,Post Production,2020/01/01,2020/12/31,86,1325.4,1456.2,113984.4,125233.2,0.0,0.0,130.8,11248.8
+ST-177,Michael,Producer,Toronto,Female,Sound Department,2020/01/01,2020/12/31,83,1327.1,1165.9,110149.3,96769.7,161.2,13379.6,0.0,0.0
+ST-178,Keith,Producer,New York,Male,Photography,2020/01/01,2020/12/31,62,1443.5,1566.2,89497.0,97104.4,0.0,0.0,122.7,7607.4
+ST-179,Michael,Director,Toronto,Female,Photography,2020/01/01,2020/12/31,70,1378.5,1232.2,96495.0,86254.0,146.3,10241.0,0.0,0.0
+ST-180,Stacey,Producer,Los Angeles,Male,Film Production,2020/01/01,2020/12/31,75,1473.3,1516.1,110497.5,113707.5,0.0,0.0,42.8,3210.0
+ST-181,Cynthia,Editor,Chicago,Male,Sound Department,2020/01/01,2020/12/31,95,1428.4,1596.1,135698.0,151629.5,0.0,0.0,167.7,15931.5
+ST-182,Christine,Cameraman,Vancouver,Male,Sound Department,2020/01/01,2020/12/31,61,1368.9,1444.3,83502.9,88102.3,0.0,0.0,75.4,4599.4
+ST-183,Jennifer,Cameraman,Toronto,Male,Post Production,2020/01/01,2020/12/31,62,1460.0,1408.6,90520.0,87333.2,51.4,3186.8,0.0,0.0
+ST-184,Paul,Producer,New York,Female,Film Production,2020/01/01,2020/12/31,98,1480.0,1544.3,145040.0,151341.4,0.0,0.0,64.3,6301.4
+ST-185,Robert,Cameraman,Vancouver,Male,Photography,2020/01/01,2020/12/31,98,1363.2,1610.4,133593.6,157819.2,0.0,0.0,247.2,24225.6
+ST-186,Debra,Editor,Los Angeles,Male,Sound Department,2020/01/01,2020/12/31,83,1331.9,1287.7,110547.7,106879.1,44.2,3668.6,0.0,0.0
+ST-187,Aaron,Editor,Los Angeles,Male,Photography,2020/01/01,2020/12/31,83,1368.7,1552.8,113602.1,128882.4,0.0,0.0,184.1,15280.3
+ST-188,James,Cameraman,Toronto,Female,Post Production,2020/01/01,2020/12/31,86,1390.3,1587.3,119565.8,136507.8,0.0,0.0,197.0,16942.0
+ST-189,Matthew,Sound Engineer,New York,Male,Film Production,2020/01/01,2020/12/31,70,1485.1,1357.2,103957.0,95004.0,127.9,8953.0,0.0,0.0
+ST-190,John,Editor,Toronto,Female,Film Production,2020/01/01,2020/12/31,52,1382.8,1205.4,71905.6,62680.8,177.4,9224.8,0.0,0.0
+ST-191,Dana,Producer,Los Angeles,Male,Film Production,2020/01/01,2020/12/31,72,1483.7,1742.5,106826.4,125460.0,0.0,0.0,258.8,18633.6
+ST-192,Nicholas,Director,Toronto,Female,Post Production,2020/01/01,2020/12/31,88,1480.4,1650.3,130275.2,145226.4,0.0,0.0,169.9,14951.2
+ST-193,Nancy,Producer,Vancouver,Female,Sound Department,2020/01/01,2020/12/31,61,1306.1,1477.0,79672.1,90097.0,0.0,0.0,170.9,10424.9
+ST-194,Ashley,Editor,Los Angeles,Male,Post Production,2020/01/01,2020/12/31,56,1324.7,1288.6,74183.2,72161.6,36.1,2021.6,0.0,0.0
+ST-195,Robert,Editor,Los Angeles,Male,Post Production,2020/01/01,2020/12/31,79,1458.2,1620.2,115197.8,127995.8,0.0,0.0,162.0,12798.0
+ST-196,Richard,Director,Los Angeles,Male,Photography,2020/01/01,2020/12/31,84,1472.4,1659.0,123681.6,139356.0,0.0,0.0,186.6,15674.4
+ST-197,Jacqueline,Producer,Toronto,Male,Photography,2020/01/01,2020/12/31,71,1371.7,1213.2,97390.7,86137.2,158.5,11253.5,0.0,0.0
+ST-198,Robert,Cameraman,Chicago,Female,Photography,2020/01/01,2020/12/31,50,1375.3,1244.5,68765.0,62225.0,130.8,6540.0,0.0,0.0
+ST-199,Eileen,Sound Engineer,Chicago,Male,Film Production,2020/01/01,2020/12/31,99,1484.2,1594.1,146935.8,157815.9,0.0,0.0,109.9,10880.1
+ST-200,Brandon,Editor,Vancouver,Female,Photography,2020/01/01,2020/12/31,80,1491.7,1594.7,119336.0,127576.0,0.0,0.0,103.0,8240.0
+ST-201,Sean,Director,Toronto,Male,Film Production,2020/01/01,2020/12/31,90,1356.3,1233.6,122067.0,111024.0,122.7,11043.0,0.0,0.0
+ST-202,Jonathon,Editor,New York,Male,Film Production,2020/01/01,2020/12/31,76,1392.6,1610.9,105837.6,122428.4,0.0,0.0,218.3,16590.8
+ST-203,Eric,Editor,Los Angeles,Male,Film Production,2020/01/01,2020/12/31,87,1301.1,1283.5,113195.7,111664.5,17.6,1531.2,0.0,0.0
+ST-204,Allison,Editor,Chicago,Male,Photography,2020/01/01,2020/12/31,70,1402.0,1210.4,98140.0,84728.0,191.6,13412.0,0.0,0.0
+ST-205,Tony,Cameraman,Vancouver,Male,Film Production,2020/01/01,2020/12/31,93,1457.4,1640.6,135538.2,152575.8,0.0,0.0,183.2,17037.6
+ST-206,Anna,Director,Los Angeles,Female,Film Production,2020/01/01,2020/12/31,58,1372.8,1271.0,79622.4,73718.0,101.8,5904.4,0.0,0.0
+ST-207,Karla,Director,Toronto,Male,Sound Department,2020/01/01,2020/12/31,86,1431.7,1701.0,123126.2,146286.0,0.0,0.0,269.3,23159.8
+ST-208,Nicole,Director,Los Angeles,Male,Sound Department,2020/01/01,2020/12/31,74,1345.0,1329.1,99530.0,98353.4,15.9,1176.6,0.0,0.0
+ST-209,Troy,Director,Los Angeles,Male,Post Production,2020/01/01,2020/12/31,67,1477.0,1447.7,98959.0,96995.9,29.3,1963.1,0.0,0.0
+ST-210,Larry,Cameraman,Vancouver,Female,Film Production,2020/01/01,2020/12/31,67,1308.1,1259.1,87642.7,84359.7,49.0,3283.0,0.0,0.0
+ST-211,Steven,Director,Toronto,Male,Film Production,2020/01/01,2020/12/31,95,1378.5,1542.1,130957.5,146499.5,0.0,0.0,163.6,15542.0
+ST-212,Lisa,Director,Los Angeles,Male,Sound Department,2020/01/01,2020/12/31,88,1392.4,1266.2,122531.2,111425.6,126.2,11105.6,0.0,0.0
+ST-213,Nancy,Director,Los Angeles,Male,Post Production,2020/01/01,2020/12/31,98,1400.7,1648.2,137268.6,161523.6,0.0,0.0,247.5,24255.0
+ST-214,Lisa,Producer,Chicago,Female,Sound Department,2020/01/01,2020/12/31,90,1403.7,1219.6,126333.0,109764.0,184.1,16569.0,0.0,0.0
+ST-215,Jacob,Producer,Chicago,Female,Post Production,2020/01/01,2020/12/31,74,1426.9,1358.2,105590.6,100506.8,68.7,5083.8,0.0,0.0
+ST-216,Yvonne,Director,Toronto,Female,Post Production,2020/01/01,2020/12/31,74,1445.6,1404.3,106974.4,103918.2,41.3,3056.2,0.0,0.0
+ST-217,Cynthia,Editor,Toronto,Female,Film Production,2020/01/01,2020/12/31,51,1386.1,1371.5,70691.1,69946.5,14.6,744.6,0.0,0.0
+ST-218,Christopher,Cameraman,Toronto,Female,Film Production,2020/01/01,2020/12/31,60,1330.6,1207.6,79836.0,72456.0,123.0,7380.0,0.0,0.0
+ST-219,Jessica,Cameraman,Vancouver,Male,Sound Department,2020/01/01,2020/12/31,72,1480.0,1580.9,106560.0,113824.8,0.0,0.0,100.9,7264.8
+ST-220,Valerie,Producer,New York,Male,Sound Department,2020/01/01,2020/12/31,99,1472.6,1715.2,145787.4,169804.8,0.0,0.0,242.6,24017.4
+ST-221,Richard,Producer,Vancouver,Female,Film Production,2020/01/01,2020/12/31,74,1496.9,1662.0,110770.6,122988.0,0.0,0.0,165.1,12217.4
+ST-222,Erika,Producer,Chicago,Female,Post Production,2020/01/01,2020/12/31,74,1489.7,1533.0,110237.8,113442.0,0.0,0.0,43.3,3204.2
+ST-223,Leslie,Director,Los Angeles,Male,Film Production,2020/01/01,2020/12/31,59,1301.0,1377.0,76759.0,81243.0,0.0,0.0,76.0,4484.0
+ST-224,Jason,Sound Engineer,Toronto,Male,Photography,2020/01/01,2020/12/31,67,1437.7,1531.2,96325.9,102590.4,0.0,0.0,93.5,6264.5
+ST-225,Jennifer,Director,Toronto,Male,Photography,2020/01/01,2020/12/31,57,1478.5,1679.7,84274.5,95742.9,0.0,0.0,201.2,11468.4
+ST-226,Aaron,Director,New York,Male,Sound Department,2020/01/01,2020/12/31,73,1416.9,1330.3,103433.7,97111.9,86.6,6321.8,0.0,0.0
+ST-227,Mackenzie,Director,Chicago,Male,Photography,2020/01/01,2020/12/31,99,1471.3,1724.8,145658.7,170755.2,0.0,0.0,253.5,25096.5
+ST-228,Allison,Editor,Toronto,Male,Sound Department,2020/01/01,2020/12/31,88,1432.1,1436.9,126024.8,126447.2,0.0,0.0,4.8,422.4
+ST-229,Connor,Director,New York,Male,Film Production,2020/01/01,2020/12/31,74,1334.3,1340.1,98738.2,99167.4,0.0,0.0,5.8,429.2
+ST-230,David,Cameraman,Los Angeles,Male,Sound Department,2020/01/01,2020/12/31,71,1346.6,1556.3,95608.6,110497.3,0.0,0.0,209.7,14888.7
+ST-231,Debra,Cameraman,Los Angeles,Male,Post Production,2020/01/01,2020/12/31,82,1398.1,1504.0,114644.2,123328.0,0.0,0.0,105.9,8683.8
+ST-232,Morgan,Director,New York,Male,Film Production,2020/01/01,2020/12/31,84,1372.9,1312.3,115323.6,110233.2,60.6,5090.4,0.0,0.0
+ST-233,Joshua,Sound Engineer,Chicago,Female,Photography,2020/01/01,2020/12/31,54,1395.6,1462.8,75362.4,78991.2,0.0,0.0,67.2,3628.8
+ST-234,Tiffany,Director,Vancouver,Male,Post Production,2020/01/01,2020/12/31,80,1345.9,1196.2,107672.0,95696.0,149.7,11976.0,0.0,0.0
+ST-235,Craig,Editor,New York,Male,Film Production,2020/01/01,2020/12/31,92,1472.8,1676.1,135497.6,154201.2,0.0,0.0,203.3,18703.6
+ST-236,Melissa,Editor,Vancouver,Male,Photography,2020/01/01,2020/12/31,52,1472.4,1539.2,76564.8,80038.4,0.0,0.0,66.8,3473.6
+ST-237,Randy,Sound Engineer,Los Angeles,Male,Sound Department,2020/01/01,2020/12/31,85,1369.5,1538.0,116407.5,130730.0,0.0,0.0,168.5,14322.5
+ST-238,Christopher,Cameraman,Toronto,Male,Film Production,2020/01/01,2020/12/31,81,1467.7,1407.6,118883.7,114015.6,60.1,4868.1,0.0,0.0
+ST-239,Joshua,Editor,Toronto,Female,Post Production,2020/01/01,2020/12/31,82,1485.3,1310.2,121794.6,107436.4,175.1,14358.2,0.0,0.0
+ST-240,Shawn,Producer,Vancouver,Female,Film Production,2020/01/01,2020/12/31,97,1373.5,1350.7,133229.5,131017.9,22.8,2211.6,0.0,0.0
+ST-241,Laura,Editor,Chicago,Female,Film Production,2020/01/01,2020/12/31,97,1455.2,1573.1,141154.4,152590.7,0.0,0.0,117.9,11436.3
+ST-242,Michelle,Producer,New York,Female,Film Production,2020/01/01,2020/12/31,99,1323.9,1289.8,131066.1,127690.2,34.1,3375.9,0.0,0.0
+ST-243,Dennis,Director,Chicago,Female,Post Production,2020/01/01,2020/12/31,77,1355.5,1613.6,104373.5,124247.2,0.0,0.0,258.1,19873.7
+ST-244,Abigail,Producer,Toronto,Female,Post Production,2020/01/01,2020/12/31,57,1389.2,1348.1,79184.4,76841.7,41.1,2342.7,0.0,0.0
+ST-245,Debra,Editor,Chicago,Female,Sound Department,2020/01/01,2020/12/31,64,1322.0,1301.3,84608.0,83283.2,20.7,1324.8,0.0,0.0
+ST-246,Michael,Director,Los Angeles,Female,Film Production,2020/01/01,2020/12/31,93,1379.9,1323.2,128330.7,123057.6,56.7,5273.1,0.0,0.0
+ST-247,Monica,Editor,New York,Male,Photography,2020/01/01,2020/12/31,80,1363.4,1584.1,109072.0,126728.0,0.0,0.0,220.7,17656.0
+ST-248,Joshua,Editor,Los Angeles,Male,Photography,2020/01/01,2020/12/31,76,1318.7,1213.3,100221.2,92210.8,105.4,8010.4,0.0,0.0
+ST-249,Andrew,Producer,Chicago,Male,Film Production,2020/01/01,2020/12/31,94,1372.8,1279.2,129043.2,120244.8,93.6,8798.4,0.0,0.0
+ST-250,Billy,Cameraman,Toronto,Female,Photography,2020/01/01,2020/12/31,58,1323.3,1404.8,76751.4,81478.4,0.0,0.0,81.5,4727.0
+ST-251,Erin,Editor,Toronto,Female,Film Production,2020/01/01,2020/12/31,50,1404.0,1498.8,70200.0,74940.0,0.0,0.0,94.8,4740.0
+ST-252,Angela,Director,Toronto,Male,Film Production,2020/01/01,2020/12/31,64,1485.7,1461.4,95084.8,93529.6,24.3,1555.2,0.0,0.0
+ST-253,Stacey,Cameraman,Los Angeles,Male,Sound Department,2020/01/01,2020/12/31,98,1308.2,1549.0,128203.6,151802.0,0.0,0.0,240.8,23598.4
+ST-254,Sheena,Cameraman,Vancouver,Female,Post Production,2020/01/01,2020/12/31,71,1435.4,1542.0,101913.4,109482.0,0.0,0.0,106.6,7568.6
+ST-255,Renee,Sound Engineer,Vancouver,Male,Post Production,2020/01/01,2020/12/31,56,1443.0,1364.4,80808.0,76406.4,78.6,4401.6,0.0,0.0
+ST-256,Bobby,Editor,Vancouver,Male,Sound Department,2020/01/01,2020/12/31,63,1414.6,1529.2,89119.8,96339.6,0.0,0.0,114.6,7219.8
+ST-257,Kara,Editor,Los Angeles,Male,Photography,2020/01/01,2020/12/31,94,1482.2,1324.5,139326.8,124503.0,157.7,14823.8,0.0,0.0
+ST-258,Jacqueline,Director,Los Angeles,Male,Sound Department,2020/01/01,2020/12/31,85,1368.0,1362.1,116280.0,115778.5,5.9,501.5,0.0,0.0
+ST-259,Diana,Director,Toronto,Female,Film Production,2020/01/01,2020/12/31,79,1349.7,1374.3,106626.3,108569.7,0.0,0.0,24.6,1943.4
+ST-260,Jennifer,Director,Toronto,Female,Photography,2020/01/01,2020/12/31,85,1381.0,1543.2,117385.0,131172.0,0.0,0.0,162.2,13787.0
+ST-261,Raven,Director,Chicago,Female,Film Production,2020/01/01,2020/12/31,66,1395.4,1254.9,92096.4,82823.4,140.5,9273.0,0.0,0.0
+ST-262,Danielle,Director,New York,Female,Sound Department,2020/01/01,2020/12/31,88,1486.4,1340.9,130803.2,117999.2,145.5,12804.0,0.0,0.0
+ST-263,Nathan,Sound Engineer,Toronto,Male,Post Production,2020/01/01,2020/12/31,83,1426.2,1273.5,118374.6,105700.5,152.7,12674.1,0.0,0.0
+ST-264,Amanda,Cameraman,Chicago,Female,Photography,2020/01/01,2020/12/31,71,1474.0,1668.3,104654.0,118449.3,0.0,0.0,194.3,13795.3
+ST-265,Jared,Director,Los Angeles,Male,Sound Department,2020/01/01,2020/12/31,81,1338.4,1320.8,108410.4,106984.8,17.6,1425.6,0.0,0.0
+ST-266,Brenda,Producer,Vancouver,Male,Post Production,2020/01/01,2020/12/31,61,1403.8,1459.9,85631.8,89053.9,0.0,0.0,56.1,3422.1
+ST-267,Alan,Sound Engineer,Vancouver,Female,Film Production,2020/01/01,2020/12/31,90,1437.7,1470.3,129393.0,132327.0,0.0,0.0,32.6,2934.0
+ST-268,Edward,Sound Engineer,Chicago,Female,Photography,2020/01/01,2020/12/31,65,1397.6,1483.4,90844.0,96421.0,0.0,0.0,85.8,5577.0
+ST-269,Mathew,Producer,Vancouver,Male,Photography,2020/01/01,2020/12/31,52,1312.5,1227.2,68250.0,63814.4,85.3,4435.6,0.0,0.0
+ST-270,Kristine,Sound Engineer,Chicago,Male,Sound Department,2020/01/01,2020/12/31,91,1426.8,1355.8,129838.8,123377.8,71.0,6461.0,0.0,0.0
+ST-271,Jennifer,Producer,Los Angeles,Male,Film Production,2020/01/01,2020/12/31,73,1411.5,1375.9,103039.5,100440.7,35.6,2598.8,0.0,0.0
+ST-272,Matthew,Director,Los Angeles,Female,Post Production,2020/01/01,2020/12/31,79,1313.5,1217.5,103766.5,96182.5,96.0,7584.0,0.0,0.0
+ST-273,Christine,Cameraman,Chicago,Female,Sound Department,2020/01/01,2020/12/31,95,1408.1,1636.6,133769.5,155477.0,0.0,0.0,228.5,21707.5
+ST-274,Blake,Cameraman,Toronto,Female,Film Production,2020/01/01,2020/12/31,55,1470.8,1551.6,80894.0,85338.0,0.0,0.0,80.8,4444.0
+ST-275,Frank,Director,Vancouver,Male,Photography,2020/01/01,2020/12/31,92,1327.3,1426.9,122111.6,131274.8,0.0,0.0,99.6,9163.2
+ST-276,Tina,Director,New York,Female,Photography,2020/01/01,2020/12/31,55,1421.0,1571.2,78155.0,86416.0,0.0,0.0,150.2,8261.0
+ST-277,Keith,Cameraman,Chicago,Female,Post Production,2020/01/01,2020/12/31,69,1316.7,1129.9,90852.3,77963.1,186.8,12889.2,0.0,0.0
+ST-278,Ralph,Editor,Vancouver,Male,Post Production,2020/01/01,2020/12/31,59,1393.2,1237.9,82198.8,73036.1,155.3,9162.7,0.0,0.0
+ST-279,Amy,Director,New York,Male,Sound Department,2020/01/01,2020/12/31,74,1449.2,1702.2,107240.8,125962.8,0.0,0.0,253.0,18722.0
+ST-280,Kelly,Editor,Vancouver,Female,Photography,2020/01/01,2020/12/31,52,1331.0,1423.4,69212.0,74016.8,0.0,0.0,92.4,4804.8
+ST-281,Timothy,Sound Engineer,Los Angeles,Male,Sound Department,2020/01/01,2020/12/31,77,1363.9,1507.4,105020.3,116069.8,0.0,0.0,143.5,11049.5
+ST-282,John,Cameraman,Toronto,Female,Film Production,2020/01/01,2020/12/31,98,1328.3,1143.5,130173.4,112063.0,184.8,18110.4,0.0,0.0
+ST-283,Brandon,Director,Chicago,Male,Post Production,2020/01/01,2020/12/31,66,1376.9,1336.1,90875.4,88182.6,40.8,2692.8,0.0,0.0
+ST-284,Hayden,Producer,Vancouver,Male,Photography,2020/01/01,2020/12/31,71,1403.1,1199.5,99620.1,85164.5,203.6,14455.6,0.0,0.0
+ST-285,Alexandra,Director,Toronto,Female,Post Production,2020/01/01,2020/12/31,58,1368.8,1640.2,79390.4,95131.6,0.0,0.0,271.4,15741.2
+ST-286,Chad,Sound Engineer,Vancouver,Female,Photography,2020/01/01,2020/12/31,66,1414.1,1459.7,93330.6,96340.2,0.0,0.0,45.6,3009.6
+ST-287,Richard,Sound Engineer,Chicago,Female,Photography,2020/01/01,2020/12/31,83,1468.1,1362.7,121852.3,113104.1,105.4,8748.2,0.0,0.0
+ST-288,Mark,Cameraman,Vancouver,Male,Film Production,2020/01/01,2020/12/31,94,1432.7,1333.2,134673.8,125320.8,99.5,9353.0,0.0,0.0
+ST-289,Robert,Editor,Vancouver,Female,Post Production,2020/01/01,2020/12/31,60,1353.8,1611.7,81228.0,96702.0,0.0,0.0,257.9,15474.0
+ST-290,Cory,Producer,Vancouver,Male,Film Production,2020/01/01,2020/12/31,79,1465.6,1750.3,115782.4,138273.7,0.0,0.0,284.7,22491.3
+ST-291,Regina,Producer,Vancouver,Male,Photography,2020/01/01,2020/12/31,92,1463.9,1402.3,134678.8,129011.6,61.6,5667.2,0.0,0.0
+ST-292,Thomas,Producer,Toronto,Male,Photography,2020/01/01,2020/12/31,68,1460.7,1326.7,99327.6,90215.6,134.0,9112.0,0.0,0.0
+ST-293,Mary,Producer,Chicago,Female,Sound Department,2020/01/01,2020/12/31,55,1382.9,1432.9,76059.5,78809.5,0.0,0.0,50.0,2750.0
+ST-294,Theresa,Director,Toronto,Male,Sound Department,2020/01/01,2020/12/31,70,1334.8,1247.2,93436.0,87304.0,87.6,6132.0,0.0,0.0
+ST-295,Matthew,Director,New York,Male,Photography,2020/01/01,2020/12/31,50,1427.7,1348.1,71385.0,67405.0,79.6,3980.0,0.0,0.0
+ST-296,Timothy,Producer,New York,Female,Photography,2020/01/01,2020/12/31,100,1441.7,1654.1,144170.0,165410.0,0.0,0.0,212.4,21240.0
+ST-297,Holly,Sound Engineer,Chicago,Female,Photography,2020/01/01,2020/12/31,100,1377.7,1306.5,137770.0,130650.0,71.2,7120.0,0.0,0.0
+ST-298,Ronald,Editor,New York,Female,Sound Department,2020/01/01,2020/12/31,78,1441.7,1439.2,112452.6,112257.6,2.5,195.0,0.0,0.0
+ST-299,Kevin,Editor,Vancouver,Male,Film Production,2020/01/01,2020/12/31,95,1461.6,1438.6,138852.0,136667.0,23.0,2185.0,0.0,0.0
+ST-300,Jessica,Editor,Toronto,Female,Photography,2020/01/01,2020/12/31,61,1480.8,1756.4,90328.8,107140.4,0.0,0.0,275.6,16811.6
