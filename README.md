@@ -23,4 +23,4 @@ Interactive Production Working Hours Analysis Dashboard to analyse workforce pro
 
  ## Dashboard Preview
  ![Dashboard](Light Mode - Dashboard.png)
- ![Dashboard](Dark Mode - Dashboard.png)
+ 
