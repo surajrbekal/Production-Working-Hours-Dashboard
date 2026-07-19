@@ -17,3 +17,10 @@ Interactive Production Working Hours Analysis Dashboard to analyse workforce pro
 - Business Intelligence
 - Financial Analytics
 - Data Visualization
+  
+## Live Dashboard
+ https://surajrbekal.github.io/Production-Working-Hours-Dashboard/
+
+ ## Dashboard Preview
+ ![Dashboard](Light Mode - Dashboard.png)
+ ![Dashboard](Dark Mode - Dashboard.png)
